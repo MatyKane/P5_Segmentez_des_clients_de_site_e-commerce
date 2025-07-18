@@ -32,32 +32,32 @@ Requêtes SQL (via WITH AS) fournies par Fernanda (Customer Experience)
     ● Qui sont les vendeurs ayant généré un chiffre d'affaires de plus de 100 000 Real sur des commandes livrées via Olist ?
 
     ● Qui sont les nouveaux vendeurs (moins de 3 mois d'ancienneté) qui sont déjà très engagés avec la plateforme (ayant déjà vendu plus de 30 produits) ?
-    
+
     ● Question : Quels sont les 5 codes postaux, enregistrant plus de 30 reviews, avec le pire review score moyen sur les 12 derniers mois ?
 
-Agrégation des données sur l’historique client
+2. Agrégation des données sur l’historique client
 Vérification des jointures et cohérence des résultats
 
-2. Feature Engineering
+3. Feature Engineering
 Création de variables comportementales :
 RFM (Récence, Fréquence, Montant)
 Satisfaction client
 Typologie des produits achetés
 Normalisation, encodage, et structuration des données
 
-3. Modélisation par clustering
+4. Modélisation par clustering
 Test des méthodes :
 k-means
 Méthode du coude & silhouette score pour déterminer le nombre de clusters
 Analyse et caractérisation des segments
 Sélection du modèle optimal selon la qualité des clusters et la pertinence métier
 
-4. Simulation de stabilité (maintenance)
+5. Simulation de stabilité (maintenance)
 Calcul de l’ARI (Adjusted Rand Index) sur plusieurs échantillons temporels
 Évaluation de la stabilité des clusters dans le temps
 Recommandation sur la fréquence de mise à jour de la segmentation
 
-5. Présentation des résultats
+6. Présentation des résultats
 Présentation visuelle des segments identifiés
 Support PowerPoint à destination de l’équipe Marketing
 
