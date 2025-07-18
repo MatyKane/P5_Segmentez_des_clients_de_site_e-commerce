@@ -26,9 +26,13 @@ Notre mission principale est de :
 Requêtes SQL (via WITH AS) fournies par Fernanda (Customer Experience)
     
     Liste de requêtes SQL pour le dashboard :
+
     ● En excluant les commandes annulées, quelles sont les commandes récentes de moins de 3 mois que les clients ont reçues avec au moins 3 jours de retard ?
+
     ● Qui sont les vendeurs ayant généré un chiffre d'affaires de plus de 100 000 Real sur des commandes livrées via Olist ?
+
     ● Qui sont les nouveaux vendeurs (moins de 3 mois d'ancienneté) qui sont déjà très engagés avec la plateforme (ayant déjà vendu plus de 30 produits) ?
+    
     ● Question : Quels sont les 5 codes postaux, enregistrant plus de 30 reviews, avec le pire review score moyen sur les 12 derniers mois ?
 
 Agrégation des données sur l’historique client
