@@ -1,4 +1,17 @@
-**Contexte**
+## 📊 Visualisation complète des notebooks
+
+⚠️ Certains notebooks Jupyter sont trop volumineux pour être affichés directement par GitHub.
+
+👉 Les versions **HTML (avec tous les résultats et graphiques)** sont disponibles ici :
+
+- 🔹 Deuxième partie – Segmentation client :  
+  👉 [Voir le notebook HTML](./PROJET_5_DEUXIEME_PARTIE_Segmentez_des_clients_d_un_site_e-commerce.html)
+
+- 🔹 Troisième partie – Segmentation client :  
+  👉 [Voir le notebook HTML](./PROJET_5_TROISIEME_PARTIE_Segmentez_des_clients_d_un_site_e-commerce.html)
+  
+  ***
+  **Contexte**
 
 Nous sommes consultant pour Olist, une plateforme de e-commerce brésilienne qui propose une solution de vente sur les marketplaces en ligne.
 
