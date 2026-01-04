@@ -5,10 +5,10 @@
 👉 Les versions **HTML (avec tous les résultats et graphiques)** sont disponibles ici :
 
 - 🔹 Deuxième partie – Segmentation client :  
-  👉 [Voir le notebook HTML](./PROJET_5_DEUXIEME_PARTIE_Segmentez_des_clients_d_un_site_e-commerce.html)
+  👉 [Voir le notebook HTML](./PROJET%205_DEUXIEME%20PARTIE%20_Segmentez%20des%20clients%20d'un%20site%20e-commerce.html)
 
 - 🔹 Troisième partie – Segmentation client :  
-  👉 [Voir le notebook HTML](./PROJET_5_TROISIEME_PARTIE_Segmentez_des_clients_d_un_site_e-commerce.html)
+  👉 [Voir le notebook HTML](./PROJET%205_TROISIEME%20PARTIE%20_Segmentez%20des%20clients%20d'un%20site%20e-commerce.html)
   
   ***
   **Contexte**
